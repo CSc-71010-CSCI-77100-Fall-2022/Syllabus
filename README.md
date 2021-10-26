@@ -80,7 +80,7 @@ No classes | Sep 3-8
 No classes | Sep 15-16
 Withdrawal deadline | Sep 15
 Columbus Day | Oct 11
-Midterm exam | Oct 27
+Midterm exam | Nov 3
 Thanksgiving day observed | Nov 25-26
 Reading day | Dec 14
 Final exam | Dec 15
