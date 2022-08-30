@@ -1,14 +1,15 @@
-PDF=csc_71010_fa2021_syllabus.pdf
+PDF=csc_71010_csci_77100_fa2022_syllabus.pdf
+MD=syllabus
 HTML=syllabus
-open:
-	gio open `git remote get-url origin`'#readme'
 html:
-	pandoc README.md -s --metadata title="CSc 71010: Programming Languages" -o $(HTML).html
+	pandoc --shift-heading-level-by=-1 -s $(MD).md -o $(HTML).html
 preview-html: html
 	gio open $(HTML).html
 pdf:
-	pandoc -f gfm README.md -o $(PDF)
+	pandoc -V geometry:margin=1in -f gfm $(MD).md -o $(PDF).pdf
 preview-pdf: pdf
-	gio open $(PDF)
+	gio open $(PDF).pdf
 toc:
-	gh-md-toc README.md | xclip -selection clipboard
+	gh-md-toc $(MD).md | xclip -selection clipboard
+open:
+	gio open `git remote get-url origin`
