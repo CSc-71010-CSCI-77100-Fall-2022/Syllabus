@@ -22,7 +22,11 @@ We will be investigating:
 1. Innovative future automated development techniques (program analysis, software engineering, and human-computer interaction) of ML/DL software systems, and
 1. The research technical thrusts that enable new ways to program and engineer ML/DL systems.
 
-Our exploration will consist of in-class discussions of the literature and team projects that encourage risk taking. To complement the innovative facets of the course, we will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms---and their application in dynamic languages (like Python)---will be thoroughly considered.
+Our exploration will consist of in-class discussions of the literature and team projects that encourage risk taking. The course will offer an opportunity for students to pursue research-oriented or novel industrial term projects in small teams (2-4 students). Students may pursue any project of their choosing that explores the intersection of software maintenance and evolution, mobile and IoT systems.
+
+The course will offer an opportunity for students to pursue research-oriented or novel industrial term projects either individually or in small teams (2-4 students). Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may a pitch a project to the instructor and/or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are welcome and encouraged.
+
+To complement the innovative facets of the course, we will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms---and their application in dynamic languages (like Python)---will be thoroughly considered.
 
 The course materials will include an introduction to basic foundations and current advances in the area of, for example, static (compile-time) and dynamic (run-time) program analysis, as well as some related program transformations. Static program analyses are traditionally used in compilers and interpreters for performance optimizations, as well as in software engineering tools for software understanding, evolution, debugging, and testing. The material will be useful for students working in compilers, systems, software engineering, and programming languages, or incorporating such areas into their ongoing research in other areas (interdisciplinary research).
 
@@ -34,6 +38,22 @@ The course materials will include an introduction to basic foundations and curre
 - Engage in active learning activities in class, such as research discussions.
 - Practice developing a research or novel-industrial project through all its stages: formulating a research problem, posing research questions, gathering related work, designing a solution, evaluating the solution empirically, writing a research paper.
 - Have fun learning.
+
+## Course Organization
+
+The course will have the following parts:
+
+### Lectures by the Instructor
+
+I will present an overview of some basic **static analyses** and the related **program transformations**. The goal of these lectures is to establish some background for the project. No previous knowledge of program analysis is expected. I will start from scratch and will cover both a number of specific analyses/transformations as well as the corresponding theoretical foundations.
+
+### Homework
+
+There will be several homework assignments with small problems related to the material presented in the lectures. Each will be assigned in Blackboard along with submission instructions. The exact instructions will follow.
+
+### Project
+
+The project may be implemented individual or with small teams (2-4 students). Projects should be specific to each student/student team and tailored to her/his ongoing and future research.
 
 ## Textbooks and Materials
 
@@ -75,7 +95,45 @@ Paper Critiques | Individual | 15%
 Paper Presentation | Individual | 20%
 Research Project | Individual or Team | 40%
 
-
 [^1]: In this course, when we mention "performance," we will be referring to *runtime* performance. In AI, the term "performance" is often times associated with how well an ML model works in terms of its ability to make predictions and perform classifications. In this course, we will refer to this as model *accuracy* instead of performance.
 
+## Notes
+
+- **Deadlines** and **due dates** for assignments will be assigned in class.
+- **Late assignments will be penalized.**
+- No extensions will be given for extra credit assignments.
+- Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
+
+## Academic Violations
+
+The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others, any submitted work in this course must be the result of *individual* effort *only*. Students are *strongly* advised to read the following resources regarding academic integrity:
+
+- [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
+- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
+
+## Counseling & Wellness Services
+
+The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and a variety of programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services).
+
+## Special Needs
+
+Students with special needs should see me for accommodation.
+
+## ADA Compliance
+
+It is Graduate Center and CUNY policy to provide appropriate accommodations to students with disabilities. Any student with a disability who may need accommodations in this class is advised to speak directly to the manager of Student Disability Services, located in Student Affairs, room 7301, or call 212-817-7400 as early in the semester as possible. All discussions will remain confidential. More information can be found on the [Disabilities Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Disability-Services).
+
+## Family Educational Rights and Privacy Act (FERPA)
+
+Please review the [student rights concerning education records][ferpa].
+
+## Sexual Misconduct
+
+Please review the [CUNY policy on sexual misconduct](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/HR/Policy/Policy-Sexual-Misconduct.pdf?ext=.pdf).
+
+## Credits
+
+Portions of this syllabus are based on those of Danny Dig, Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
+
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
+[ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
