@@ -45,11 +45,15 @@ The course will have the following parts:
 
 ### Lectures by the Instructor
 
-I will present an overview of some basic **static analyses** and the related **program transformations**. The goal of these lectures is to establish some background for the project. No previous knowledge of program analysis is expected. I will start from scratch and will cover both a number of specific analyses/transformations as well as the corresponding theoretical foundations.
+I will present an overview of some basic programming languages and software engineering concepts, including **static analyses** and the related **program transformations**. The goal of these lectures is to establish some background for the project. No previous knowledge of program analysis is expected. I will start from scratch and will cover both a number of specific analyses/transformations as well as the corresponding theoretical foundations.
+
+### Presentations by Students
+
+Students will prepare and deliver presentations of selected topics. By doing so, students will practice giving scientific presentations and teaching others.
 
 ### Homework
 
-There will be several homework assignments with small problems related to the material presented in the lectures. Each will be assigned in Blackboard along with submission instructions. The exact instructions will follow.
+There will be one or more homework assignments with small problems related to the material presented in the lectures. Each will be assigned in Blackboard along with submission instructions. The exact instructions will follow.
 
 ### Project
 
