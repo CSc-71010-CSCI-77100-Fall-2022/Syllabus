@@ -1,6 +1,35 @@
 # CSc 71010/CSCI 77100: Programming Languages/Software Engineering
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center/Hunter College.
 
+## Table of Contents
+
+* [Details](#details)
+* [Course Description](#course-description)
+* [Course Objectives](#course-objectives)
+* [Course Organization](#course-organization)
+  * [Lectures by the Instructor](#lectures-by-the-instructor)
+  * [Presentations by Students](#presentations-by-students)
+  * [Homework](#homework)
+  * [Project](#project)
+* [Textbooks and Materials](#textbooks-and-materials)
+* [Prerequisites](#prerequisites)
+* [Attendance](#attendance)
+* [Email](#email)
+* [Bulletin Board](#bulletin-board)
+* [Student Expectations](#student-expectations)
+* [Assessment](#assessment)
+* [Notes](#notes)
+* [Academic Violations](#academic-violations)
+* [Key Dates](#key-dates)
+* [Counseling &amp; Wellness Services](#counseling--wellness-services)
+* [Special Needs](#special-needs)
+* [ADA Compliance](#ada-compliance)
+* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+* [Sexual Misconduct](#sexual-misconduct)
+* [Credits](#credits)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+
 ## Details 
 
 Field | Value
