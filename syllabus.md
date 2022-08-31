@@ -6,7 +6,7 @@
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
-**Office:** | 1090H Hunter North Building
+**Office:** | 1090H Hunter North Building (695 Park Ave)
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu), [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
 **Office hours:** | MF 4:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
