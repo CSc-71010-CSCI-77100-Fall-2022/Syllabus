@@ -3,6 +3,10 @@
 
 ## Table of Contents
 
+
+Table of Contents
+=================
+
 * [Details](#details)
 * [Course Description](#course-description)
 * [Course Objectives](#course-objectives)
@@ -14,6 +18,10 @@
 * [Textbooks and Materials](#textbooks-and-materials)
 * [Prerequisites](#prerequisites)
 * [Attendance](#attendance)
+* [Mode of Delivery](#mode-of-delivery)
+* [COVID](#covid)
+* [Other Policies](#other-policies)
+* [Discussion and Communication Guidelines](#discussion-and-communication-guidelines)
 * [Office Hours](#office-hours)
 * [Email](#email)
 * [Discussion Board](#discussion-board)
@@ -22,6 +30,8 @@
 * [Assessment](#assessment)
 * [Notes](#notes)
 * [Academic Violations](#academic-violations)
+  * [Written Assignments](#written-assignments)
+  * [Projects](#projects)
 * [Key Dates](#key-dates)
 * [Counseling &amp; Wellness Services](#counseling--wellness-services)
 * [Special Needs](#special-needs)
@@ -179,7 +189,7 @@ The classroom environment employed will be that of a professional one. While stu
 
 Your written assignments should be your own original work. General high-level discussion of assignments with other students in the class is allowed, but all actual work should be your own. Do not provide your own solutions to other students.
 
-## Projects
+### Projects
 
 Projects should be done independently, within your group or on your own. General high-level discussion of projects with other students in the class is allowed.
 
