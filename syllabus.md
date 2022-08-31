@@ -15,7 +15,16 @@ Field | Value
 
 ## Course Description
 
-This course is intended to be a survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the design and implementation of modern programming languages. This includes the understanding and appreciation of topics in designing and implementing modern programming languages such as attribute grammars, operational, axiomatic, and denotational semantics, (static and dynamic) type systems, and functional programming and its relationship with mainstream Object-Oriented languages, frameworks, and libraries (APIs).
+The purpose of this research course is to expose students to seminal topics and recent trends in the field of Programming Languages and Software Engineering with a focus on program analysis and software maintenance and evolution. The theme topic of the course varies with each offering. For Fall 2022, the theme of the course will be programming language concepts and software engineering for Machine Learning (ML), including Deep Learning (DL), systems. Such systems have become pervasive in society recently, and their programming and engineering comes with a set of unique challenges. Our focus in this course will be to improve nonfunctional aspects of these systems. Nonfunctional aspects of software may include security, runtime performance,[^1] and modularity. DL systems, in particular, work with a lot of data; thus, performance---especially in the training stage---is of the utmost importance. However, programming and engineering such systems is difficult, especially for data scientists, who may not be classically-trained Software Engineers. As such, having both programmability and performance of DL systems is our goal. Doing so would avert potential errors, misclassifications, faulty predictions, and performance bottlenecks, which otherwise costs time, energy, and money.
+
+We will be investigating:
+
+1. Innovative future automated development techniques (program analysis, software engineering, and human-computer interaction) of ML/DL software systems, and
+1. The research technical thrusts that enable new ways to program and engineer ML/DL systems.
+
+Our exploration will consist of in-class discussions of the literature and team projects that encourage risk taking. To complement the innovative facets of the course, we will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms---and their application in dynamic languages (like Python)---will be thoroughly considered.
+
+The course materials will include an introduction to basic foundations and current advances in the area of, for example, static (compile-time) and dynamic (run-time) program analysis, as well as some related program transformations. Static program analyses are traditionally used in compilers and interpreters for performance optimizations, as well as in software engineering tools for software understanding, evolution, debugging, and testing. The material will be useful for students working in compilers, systems, software engineering, and programming languages, or incorporating such areas into their ongoing research in other areas (interdisciplinary research).
 
 ## Topics
 
@@ -183,6 +192,8 @@ Raffi Khatchadourian is an Assistant Professor in the Computer Science Departmen
 
 ## Credits
 
-Portions of this syllabus are based on those of Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
+Portions of this syllabus are based on those of Danny Dig, Atanas Rountev, Neelam Soundarajan, Mike Bond, and Subash Shankar.
+
+[^1]: In this course, when we mention "performance," we will be referring to *runtime* performance. In AI, the term "performance" is often times associated with how well an ML model works in terms of its ability to make predictions and perform classifications. In this course, we will refer to this as model *accuracy* instead of performance.
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
