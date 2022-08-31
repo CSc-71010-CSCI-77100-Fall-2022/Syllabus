@@ -38,7 +38,7 @@ Field | Value
 **Office:** | 1090H Hunter North Building (695 Park Ave)
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu), [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | MF 4:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
+**Office hours:** | M (in-person), F (Zoom) 4:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
 **Semester:** | Fall 2022
 **Section:** | CSc 71010-01 (45557)/CSCI 77100-01 (57381)
 
@@ -100,9 +100,17 @@ You should have at least basic knowledge of an imperative, Object-Oriented progr
 
 This is an interactive course. Attendance is expected for each and every class meeting. Excused absences include University-related travel (e.g., to attend an academic conference), job interviews, and illness; but please notify me beforehand or as soon as possible.
 
+## Office Hours
+
+Office hours will be held in-person (once a week) and via Zoom (once a week). See Bb for details. Attending office hours is optional, and no appointment is necessary to attend. If you cannot make it during the scheduled office hours, please arrange an alternative meeting time. Appointments during office hours are not allowed.
+
 ## Email
 
 Emails to the instructor must be via a CUNY email address for FERPA reasons. Please post all class-related discussion on Bb. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+
+## Discussion Board
+
+We will use the Bb discussion board for questions and discussions. Participation in Bb discussions is optional.
 
 ## Bulletin Board
 
