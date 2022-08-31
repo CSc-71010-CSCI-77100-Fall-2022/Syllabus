@@ -84,7 +84,9 @@ Students will prepare and deliver presentations of selected topics. By doing so,
 
 ### Homework
 
-There will be one or more homework assignments with small problems related to the material presented in the lectures. Each will be assigned in Blackboard along with submission instructions. The exact instructions will follow.
+- There will be one or more homework assignments with small problems related to the material presented in the lectures. Each will be assigned in Blackboard along with submission instructions. The exact instructions will follow.
+- Assignments should be done independently. General, high-level discussion of assignments with other students in the class is allowed, but all actual work should be your own. Written assignments that show excessive similarities will be taken as evidence of cheating and dealt with accordingly. See more details below under "Academic integrity."
+- Assignments should be turned in by the beginning of the lecture on the due day. You can submit up to 24 hours after the deadline; if you do so, your score will be reduced by 10%. If you submit more than 24 hours after the deadline, the submission will not be accepted.
 
 ### Project
 
@@ -101,6 +103,25 @@ You should have at least basic knowledge of an imperative, Object-Oriented progr
 ## Attendance
 
 This is an interactive course. Attendance is expected for each and every class meeting. Excused absences include University-related travel (e.g., to attend an academic conference), job interviews, and illness; but please notify me beforehand or as soon as possible.
+
+## Mode of Delivery
+
+This course is in-person in Graduate Center 3212.
+
+## COVID
+
+All students, faculty, and staff are required to comply with and stay up to date on all [university safety and health guidance](https://www.cuny.edu/coronavirus). Accommodations will be made based on university guidelines.
+
+## Other Policies
+
+## Discussion and Communication Guidelines
+
+The following are my expectations for how we should communicate as a class. Above all, please remember to be respectful and thoughtful.
+
+- **Writing style**: a common theme of this course is the application of theoretical principles to problems in programming languages. As with all theoretical foundations, your solutions must be precise and detailed: you must work out all details that are necessary to solve the problem using the approaches discussed in class. You must write your solutions in a way that convinces the reader that you understand all these details. Be careful, precise, and thorough.
+- **Tone and civility**: maintain a supportive learning community where everyone feels safe and where people can disagree amicably and professionally. I am committed to making the classroom a comfortable space for all of us, and I ask that we all work toward this goal in all of the course's online spaces. We will respect each other and practice civility at all times. Disrespectful language including, but not limited to, sexist, racist, homophobic, or anti-ethnic slurs, or bigotry will not be tolerated.
+- **Citing your sources**: When we have academic discussions, please cite your sources to back up what you say. For the textbook or other course materials, list at least the title and page numbers. For online sources, include a link.
+- **Backing up your work**: Consider composing your academic posts in a word processor, where you can save your work, and then copying into Bb.
 
 ## Office Hours
 
@@ -153,6 +174,14 @@ The classroom environment employed will be that of a professional one. While stu
 
 - [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
 - [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
+
+### Written Assignments
+
+Your written assignments should be your own original work. General high-level discussion of assignments with other students in the class is allowed, but all actual work should be your own. Do not provide your own solutions to other students.
+
+## Projects
+
+Projects should be done independently, within your group or on your own. General high-level discussion of projects with other students in the class is allowed.
 
 ## Key Dates
 
