@@ -111,6 +111,15 @@ The classroom environment employed will be that of a professional one. While stu
 - [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
 - [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
 
+## Key Dates
+
+Event | Date
+----- | ----
+No classes | Oct 4-5
+Withdrawal deadline | Dec 14
+Reading day | Dec 14
+Finals week | Dec 15-21
+
 ## Counseling & Wellness Services
 
 The Wellness Center Student Counseling Services offers short-term individual and group counseling and psychotherapy, couples counseling, consultation and referral services, and a variety of programs and workshops relevant to graduate student life. More information can be found on the [Counseling Services website](https://www.gc.cuny.edu/Prospective-Current-Students/Student-Life/Health-Wellness/Counseling-Services).
