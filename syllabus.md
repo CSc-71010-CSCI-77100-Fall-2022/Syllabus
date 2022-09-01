@@ -3,10 +3,6 @@
 
 ## Table of Contents
 
-
-Table of Contents
-=================
-
 * [Details](#details)
 * [Course Description](#course-description)
 * [Course Objectives](#course-objectives)
@@ -63,9 +59,7 @@ We will be investigating:
 1. Innovative future automated development techniques (program analysis, software engineering, and human-computer interaction) of ML/DL software systems, and
 1. The research technical thrusts that enable new ways to program and engineer ML/DL systems.
 
-Our exploration will consist of in-class discussions of the literature and team projects that encourage risk taking. The course will offer an opportunity for students to pursue research-oriented or novel industrial term projects in small teams (2-4 students). Students may pursue any project of their choosing that explores the intersection of software maintenance and evolution, mobile and IoT systems.
-
-The course will offer an opportunity for students to pursue research-oriented or novel industrial term projects either individually or in small teams (2-4 students). Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may a pitch a project to the instructor and/or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are welcome and encouraged.
+Our exploration will consist of in-class discussions of the literature and team projects that encourage risk taking. The course will offer an opportunity for students to pursue research-oriented or novel industrial term projects either individually or in small teams (2-3 students). Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may a pitch a project to the instructor and/or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are welcome and encouraged.
 
 To complement the innovative facets of the course, we will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms---and their application in dynamic languages (like Python)---will be thoroughly considered.
 
@@ -100,7 +94,7 @@ Students will prepare and deliver presentations of selected topics. By doing so,
 
 ### Project
 
-The project may be implemented individual or with small teams (2-4 students). Projects should be specific to each student/student team and tailored to her/his ongoing and future research.
+The project may be implemented individual or with small teams (2-3 students). Projects should be specific to each student/student team and tailored to her/his ongoing and future research.
 
 ## Textbooks and Materials
 
