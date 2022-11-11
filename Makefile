@@ -2,7 +2,7 @@ PDF=csc_71010_csci_77100_fa2022_syllabus.pdf
 MD=syllabus
 HTML=syllabus
 html:
-	pandoc -M document-css=false --shift-heading-level-by=-1 --toc -s $(MD).md -o $(HTML).html
+	pandoc -M document-css=false --shift-heading-level-by=-1 --toc --columns=1000 -s $(MD).md -o $(HTML).html
 preview-html: html
 	gio open $(HTML).html
 pdf:
