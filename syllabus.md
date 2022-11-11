@@ -1,43 +1,6 @@
 # CSc 71010/CSCI 77100: Programming Languages/Software Engineering
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Graduate Center/Hunter College.
 
-## Table of Contents
-
-* [Details](#details)
-* [Course Description](#course-description)
-* [Course Objectives](#course-objectives)
-* [Course Organization](#course-organization)
-  * [Lectures by the Instructor](#lectures-by-the-instructor)
-  * [Presentations by Students](#presentations-by-students)
-  * [Homework](#homework)
-  * [Project](#project)
-* [Textbooks and Materials](#textbooks-and-materials)
-* [Prerequisites](#prerequisites)
-* [Attendance](#attendance)
-* [Mode of Delivery](#mode-of-delivery)
-* [COVID](#covid)
-* [Other Policies](#other-policies)
-* [Discussion and Communication Guidelines](#discussion-and-communication-guidelines)
-* [Office Hours](#office-hours)
-* [Email](#email)
-* [Discussion Board](#discussion-board)
-* [Bulletin Board](#bulletin-board)
-* [Student Expectations](#student-expectations)
-* [Assessment](#assessment)
-* [Notes](#notes)
-* [Academic Violations](#academic-violations)
-  * [Written Assignments](#written-assignments)
-  * [Projects](#projects)
-* [Key Dates](#key-dates)
-* [Counseling &amp; Wellness Services](#counseling--wellness-services)
-* [Special Needs](#special-needs)
-* [ADA Compliance](#ada-compliance)
-* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-* [Sexual Misconduct](#sexual-misconduct)
-* [Credits](#credits)
-
-<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-
 ## Details 
 
 Field | Value
