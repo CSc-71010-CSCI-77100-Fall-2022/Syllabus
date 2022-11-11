@@ -46,7 +46,7 @@ Field | Value
 **Office:** | 1090H Hunter North Building (695 Park Ave)
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu), [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | M (in-person), F (Zoom) 4:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
+**Office hours:** | M (in-person), F ([Zoom]) 4:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
 **Semester:** | Fall 2022
 **Section:** | CSc 71010-01 (45557)/CSCI 77100-01 (57381)
 
@@ -222,3 +222,4 @@ Portions of this syllabus are based on those of Danny Dig, Atanas Rountev, Neela
 
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
 [ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
+[Zoom]: https://huntercollege.zoom.us/my/khatchad
