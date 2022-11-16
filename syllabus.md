@@ -79,8 +79,6 @@ This course is in-person in Graduate Center 3212.
 
 All students, faculty, and staff must comply with and stay current on all [university safety and health guidance](https://www.cuny.edu/coronavirus). Accommodations will be made based on university guidelines.
 
-## Other Policies
-
 ## Discussion and Communication Guidelines
 
 The following are my expectations for how we should communicate as a class. Above all, please remember to be respectful and thoughtful.
