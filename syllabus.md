@@ -51,7 +51,7 @@ Students will prepare and deliver presentations on selected topics. By doing so,
 ### Homework
 
 - There will be one or more homework assignments with minor problems related to the material presented in the lectures. Each will be assigned in [Blackboard] along with submission instructions. The exact instructions will follow.
-- Students should do assignments independently. General, high-level discussion of assignments with other students in the class is allowed, but all actual work should be your own. Written assignments that show excessive similarities will be taken as evidence of cheating and dealt with accordingly. See more details below under "Academic integrity."
+- Students should do assignments independently. General, high-level discussion of assignments with other students in the class is allowed, but all actual work should be your own. Written assignments that show excessive similarities will be taken as evidence of cheating and dealt with accordingly. See more details below under "academic integrity."
 - Assignments should be turned in by the beginning of the lecture on the due day. You can submit it 24 hours after the deadline; if you do so, your score will be reduced by 10%. The submission will only be accepted if you submit it up to 24 hours after the deadline.
 
 ### Project
@@ -136,8 +136,10 @@ Research project | Individual or team | 40%
 
 The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others, any submitted work in this course must result from *individual* effort *only*. Students are *strongly* advised to read the following resources regarding academic integrity:
 
-- [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
-- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
+- [Student Handbook](https://www.gc.cuny.edu/student-handbook)
+- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/sites/default/files/2021-07/AvoidingPlagiarism.pdf)
+- [Academic Honesty](https://gc.catalog.cuny.edu/general-information/academic-honesty)
+- [Academic Integrity](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy)
 
 ### Written Assignments
 
