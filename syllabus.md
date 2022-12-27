@@ -17,16 +17,16 @@ Field | Value
 
 This course exposes students to seminal topics and recent trends in Programming Languages and Software Engineering. The focus will be on program analysis and software maintenance and evolution. The theme of this course offering will be programming language concepts and software engineering for Machine Learning (ML), including Deep Learning (DL), systems. Such systems have become pervasive in society recently, and their programming and engineering come with unique challenges. Our focus in this course will be to improve the nonfunctional aspects of these systems. Nonfunctional aspects of software may include security, run-time performance,[^1] and modularity. DL systems mainly work with a lot of data; thus, performance—especially in the training stage—is of the utmost importance. However, programming and engineering such systems are complex, especially for data scientists, who may not be classically trained Software Engineers—as such, having both programmability and performance of DL systems is our goal. Doing so would avert potential errors, misclassifications, faulty predictions, and performance bottlenecks, which otherwise cost time, energy, and money.
 
-We will be investigating the following:
+In this course, we will be investigating the following:
 
-1. Innovative future automated development techniques (program analysis, software engineering, and human-computer interaction) of ML/DL software systems, and
+1. Innovative future automated software development techniques (program analysis, software engineering, and human-computer interaction) of ML/DL software systems.
 1. Technical research thrusts enabling new ways to program and engineer ML/DL systems.
 
-The course will allow students to pursue research-oriented term projects individually or in small teams (2-3 students). Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may pitch a project to the instructor or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are particularly encouraged.
+This course will allow students to pursue research-oriented term projects individually or in small teams (2-3 students). Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may pitch a project to the instructor or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are particularly encouraged.
 
-We will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms—and their application in dynamic languages (like Python)—will be thoroughly considered.
+The investigations will be coupled with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment (IDE) engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type inference, pointer and alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms—and their application in dynamic languages (like Python)—will be thoroughly considered.
 
-The course materials will include an introduction to basic foundations and current advances in the area of, for example, static (compile-time) and dynamic (run-time) program analysis, as well as some related program transformations. Static program analyses are traditionally used in compilers and interpreters for performance optimizations and in software engineering tools for understanding, evolution, debugging, and testing. The material will be helpful for students working in compilers, systems, software engineering, and programming languages or incorporating such areas into their ongoing research in other areas (interdisciplinary research).
+The course materials will include an introduction to basic foundations static (compile-time) program analysis, as well as some related program transformations. Static program analyses are traditionally used in compilers and interpreters for performance optimizations and in software engineering tools for understanding, evolution, debugging, and testing. The material will be helpful for students working in compilers, systems, software engineering, and programming languages or incorporating such areas into their ongoing research in other areas (interdisciplinary research).
 
 ## Course Objectives
 
@@ -42,11 +42,11 @@ The course will have the following parts:
 
 ### Lectures by the Instructor
 
-The goal of these lectures is to establish some background for the project. I will present an overview of primary programming languages and software engineering concepts, including **static analyses** and related **program transformations**. I will start from scratch and cover several specific analyses/transformations and the corresponding theoretical foundations. Previous knowledge of program analysis is not assumed. 
+The lectures will establish background for the term project. The instructor will present an overview of essential programming languages and software engineering concepts, including **static analyses** and related **program transformations**. The instructor will start from scratch and cover several specific analyses/transformations and the corresponding theoretical foundations. Previous knowledge of program analysis is not assumed. 
 
 ### Presentations by Students
 
-Students will prepare and deliver presentations on selected topics. By doing so, students will practice giving scientific presentations and teaching others.
+Students will prepare and deliver presentations on selected topics. By doing so, students will practice giving scientific presentations.
 
 ### Homework
 
