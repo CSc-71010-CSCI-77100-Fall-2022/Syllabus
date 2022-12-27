@@ -119,9 +119,9 @@ Category | Mode | Percentage
 -------- | ---- | ----------
 Assignments | Individual | 15%
 Class participation and discussion | Individual | 10%
-Paper Critiques | Individual | 15%
-Paper Presentation | Individual | 20%
-Research Project | Individual or Team | 40%
+Paper critiques | Individual | 15%
+Paper presentation | Individual | 20%
+Research project | Individual or team | 40%
 
 [^1]: In this course, when we mention "performance," we will refer to *run-time* performance. In AI, the term "performance" is often associated with how well an ML model works in terms of its ability to make predictions and perform classifications. This course will refer to this as model *accuracy* instead of performance.
 
