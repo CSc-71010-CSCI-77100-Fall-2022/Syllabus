@@ -15,27 +15,26 @@ Field | Value
 
 ## Course Description
 
-This research course aims to expose students to seminal topics and recent trends in the field of Programming Languages and Software Engineering with a focus on program analysis and software maintenance and evolution. The theme topic of the course varies with each offering. For Fall 2022, the theme of the course will be programming language concepts and software engineering for Machine Learning (ML), including Deep Learning (DL), systems. Such systems have become pervasive in society recently, and their programming and engineering come with unique challenges. Our focus in this course will be to improve nonfunctional aspects of these systems. Nonfunctional aspects of software may include security, run-time performance,[^1] and modularity. DL systems, mainly, work with a lot of data; thus, performance---especially in the training stage---is of the utmost importance. However, programming and engineering such systems are complex, especially for data scientists, who may not be classically trained Software Engineers—as such, having both programmability and performance of DL systems is our goal. Doing so would avert potential errors, misclassifications, faulty predictions, and performance bottlenecks, which otherwise cost time, energy, and money.
+This course exposes students to seminal topics and recent trends in Programming Languages and Software Engineering. The focus will be on program analysis and software maintenance and evolution. The theme of this particular course offering will be programming language concepts and software engineering for Machine Learning (ML), including Deep Learning (DL), systems. Such systems have become pervasive in society recently, and their programming and engineering come with unique challenges. Our focus in this course will be to improve nonfunctional aspects of these systems. Nonfunctional aspects of software may include security, run-time performance,[^1] and modularity. DL systems, mainly, work with a lot of data; thus, performance—especially in the training stage—is of the utmost importance. However, programming and engineering such systems are complex, especially for data scientists, who may not be classically trained Software Engineers—as such, having both programmability and performance of DL systems is our goal. Doing so would avert potential errors, misclassifications, faulty predictions, and performance bottlenecks, which otherwise cost time, energy, and money.
 
 We will be investigating:
 
 1. Innovative future automated development techniques (program analysis, software engineering, and human-computer interaction) of ML/DL software systems, and
 1. The technical research thrusts that enable new ways to program and engineer ML/DL systems.
 
-The course will allow students to pursue research-oriented or novel industrial term projects individually or in small teams (2-3 students). Our exploration will consist of in-class discussions of the literature and team projects that encourage risk-taking. Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may pitch a project to the instructor or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are welcome and encouraged.
+The course will allow students to pursue research-oriented term projects individually or in small teams (2-3 students). Students may choose projects from a list of project ideas provided by the instructor. Alternatively, students may pitch a project to the instructor or class. Projects should involve programming languages and software engineering. Projects exploring the intersection of programming languages, software engineering, software maintenance and evolution, and ML/DL systems are particularly encouraged.
 
-To complement the innovative facets of the course, we will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms---and their application in dynamic languages (like Python)---will be thoroughly considered.
+We will couple the investigations with a firm theoretical foundation in programming languages, program analysis and transformation, integrated development environment engineering, and software maintenance and evolution. Other topics may include control-flow analysis, dataflow analysis, SSA form, type analysis, pointer/alias analysis, side-effect analysis, and program slicing. Imperative and Object-Oriented programming paradigms—and their application in dynamic languages (like Python)—will be thoroughly considered.
 
 The course materials will include an introduction to basic foundations and current advances in the area of, for example, static (compile-time) and dynamic (run-time) program analysis, as well as some related program transformations. Static program analyses are traditionally used in compilers and interpreters for performance optimizations and in software engineering tools for understanding, evolution, debugging, and testing. The material will be helpful for students working in compilers, systems, software engineering, and programming languages, or incorporating such areas into their ongoing research in other areas (interdisciplinary research).
 
 ## Course Objectives
 
-- Expand students' knowledge more broadly about Programming Languages, Software Engineering, and Software Maintenance and Evolution research & practice, and become familiar with the state-of-the-art research under the theme of ML/DL System programming and engineering.
+- Expand students' knowledge more broadly about Programming Languages, Software Engineering, and Software Maintenance and Evolution research, and become familiar with the state-of-the-art research under the theme of ML/DL System programming and engineering.
 - Develop critical thinking abilities by being able to assess the quality of published research and pose new research questions.
-- Practice giving scientific presentations and teaching others.
+- Practice giving scientific presentations.
 - Engage in active learning activities in class, such as research discussions.
-- Practice developing a research or novel-industrial project through all its stages: formulating a research problem, posing research questions, gathering related work, designing a solution, evaluating the solution empirically, and writing a research paper.
-- Have fun learning.
+- Practice developing a research project through all its stages: formulating a research problem, posing research questions, gathering related work, designing a solution, evaluating the solution empirically, and writing a research paper.
 
 ## Course Organization
 
@@ -51,7 +50,7 @@ Students will prepare and deliver presentations on selected topics. By doing so,
 
 ### Homework
 
-- There will be one or more homework assignments with small problems related to the material presented in the lectures. Each will be assigned in Blackboard along with submission instructions. The exact instructions will follow.
+- There will be one or more homework assignments with small problems related to the material presented in the lectures. Each will be assigned in [Blackboard] along with submission instructions. The exact instructions will follow.
 - Students should do assignments independently. General, high-level discussion of assignments with other students in the class is allowed, but all actual work should be your own. Written assignments that show excessive similarities will be taken as evidence of cheating and dealt with accordingly. See more details below under "Academic integrity."
 - Assignments should be turned in by the beginning of the lecture on the due day. You can submit it 24 hours after the deadline; if you do so, your score will be reduced by 10%. The submission will not be accepted if you submit more than 24 hours after the deadline.
 
@@ -90,11 +89,11 @@ The following are my expectations for how we should communicate as a class. Abov
 
 ## Office Hours
 
-Office hours will be held in person (once a week) and via Zoom (once weekly). See Bb for details. Attending office hours is optional, and no appointment is necessary. Please arrange an alternative meeting time if you cannot make it during the scheduled office hours. Appointments during office hours are not allowed.
+Office hours will be held in-person (once a week) and via [Zoom] (once weekly). See Bb for details. Attending office hours is optional, and no appointment is necessary. Please arrange an alternative meeting time if you cannot make it during the scheduled office hours. Appointments during office hours are disallowed.
 
 ## Email
 
-Please post all class-related discussions on Bb. Emails to the instructor must be via a CUNY email address for FERPA reasons. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+Please post all class-related discussions on Bb. Emails to the instructor must be via a CUNY email address for FERPA reasons. Also, please ensure that your *correct* email address is entered into the [CUNY Blackboard][Blackboard].
 
 ## Discussion Board
 
@@ -102,7 +101,7 @@ We will use the Bb discussion board for questions and discussions. Participation
 
 ## Bulletin Board
 
-You should check CUNY [Blackboard](http://bbhosted.cuny.edu) (Bb) regularly since the instructor will post all class material there. You are responsible for any email the instructors might send there. Please ensure you have configured Bb to use your *CUNY email address*.
+You should check [CUNY Blackboard][Blackboard] (Bb) regularly since the instructor will post all class material there. You are responsible for any email the instructors might send there. Please ensure you have configured Bb to use your *CUNY email address*.
 
 ## Student Expectations
 
@@ -184,3 +183,5 @@ Portions of this syllabus are based on those of Danny Dig, Atanas Rountev, Neela
 [type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
 [ferpa]: https://gc.catalog.cuny.edu/general-information/student-rights-concerning-education-records
 [Zoom]: https://huntercollege.zoom.us/my/khatchad
+[Blackboard]: http://bbhosted.cuny.edu
+[Bb]: http://bbhosted.cuny.edu
